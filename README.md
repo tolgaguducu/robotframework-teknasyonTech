@@ -1,5 +1,5 @@
 
-# Test Automation
+# Test Automation with Robot Framework
 
 This is an example test automation project in Robot Framework.
 
